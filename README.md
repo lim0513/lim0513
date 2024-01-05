@@ -1,6 +1,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lim0513&show_icons=true&theme=dracula&line_height=31)
 [![trophy](https://github-profile-trophy.vercel.app/?username=lim0513&theme=dracula&row=2&column=3&margin-h=11)](https://github.com/ryo-ma/github-profile-trophy)
 
+⚡ [resume](https://resume.github.io/?lim0513)
+
 <!--
 **lim0513/lim0513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
