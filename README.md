@@ -4,6 +4,12 @@
 -->
 ⚡ [resume](https://resume.github.io/?lim0513)
 
+Indie developer sharing projects and ideas.
+
+Your support helps me keep creating 🙌
+
+☕️ [buymeacoffee](https://buymeacoffee.com/limeng05134)
+
 <!--
 **lim0513/lim0513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
