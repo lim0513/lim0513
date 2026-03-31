@@ -4,9 +4,7 @@
 -->
 ⚡ [resume](https://resume.github.io/?lim0513)
 
-Indie developer sharing projects and ideas.
-
-Your support helps me keep creating 🙌
+Indie developer sharing projects and ideas. Your support helps me keep creating 🙌
 
 ☕️ [buymeacoffee](https://buymeacoffee.com/limeng05134)
 
