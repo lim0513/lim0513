@@ -9,7 +9,7 @@ Indie developer sharing projects and ideas.
 Your support helps me keep creating 🙌
 
 <a href="https://buymeacoffee.com/limeng05134">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZ5eGVpeWp4Y296bDN2a3ExcG0ya2ZtbWRsajU4eWx2bndxYXdrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hXMGQqJFlIQMOjpsKC/giphy.gif" width="200" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZ5eGVpeWp4Y296bDN2a3ExcG0ya2ZtbWRsajU4eWx2bndxYXdrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hXMGQqJFlIQMOjpsKC/giphy.gif" width="150" />
 </a>
 
 
