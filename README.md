@@ -4,9 +4,13 @@
 -->
 ⚡ [resume](https://resume.github.io/?lim0513)
 
-Indie developer sharing projects and ideas.
+I am an independent software developer. 
 
-Your support helps me keep creating 🙌
+I publish open-source tools and technical projects on GitHub. 
+
+Users support my development work through small tips on BuyMeACoffee. 
+
+This is not a donation request — it is a voluntary tip for digital content and open-source development.
 
 <a href="https://buymeacoffee.com/limeng05134">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZ5eGVpeWp4Y296bDN2a3ExcG0ya2ZtbWRsajU4eWx2bndxYXdrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hXMGQqJFlIQMOjpsKC/giphy.gif" width="150" />
