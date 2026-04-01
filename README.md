@@ -19,12 +19,16 @@ These are digital products available publicly on GitHub.
 Some users choose to support my open‑source work through small **tips** on BuyMeACoffee.  
 This is **not a donation**, but a **voluntary tip for digital content and software development**.
 
+## 🔧 Featured Projects
+- **[LimLauncher](https://github.com/lim0513/LimLauncher)** — A lightweight Windows launcher built with WPF, inspired by Rolan, providing fast app access and clean UI.
+- **[Luckfox-PicoKVM-Client](https://github.com/lim0513/Luckfox-PicoKVM-Client)** — A client tool for Luckfox PicoKVM that supports sending keyboard shortcuts to the controlled device.
+- **[joplin-explorer](https://github.com/lim0513/joplin-explorer)** — A Joplin plugin that unifies notebooks and notes into a single tree view for improved navigation.
 
-<a href="https://buymeacoffee.com/limeng05134">
+
+<a href="https://buymeacoffee.com/lim0513">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZ5eGVpeWp4Y296bDN2a3ExcG0ya2ZtbWRsajU4eWx2bndxYXdrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hXMGQqJFlIQMOjpsKC/giphy.gif" width="150" />
 </a>
 
-⚡ [resume](https://resume.github.io/?lim0513)
 
 <!--
 **lim0513/lim0513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
