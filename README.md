@@ -4,13 +4,23 @@
 -->
 ⚡ [resume](https://resume.github.io/?lim0513)
 
-I am an independent software developer. 
 
-I publish open-source tools and technical projects on GitHub. 
+## 👋 About My Work
+I am an independent software developer based in Japan.  
+I create open‑source tools, automation scripts, and technical utilities, all published here on GitHub.
 
-Users support my development work through small tips on BuyMeACoffee. 
+## 🛠 What I Provide
+- Open‑source software  
+- Developer tools  
+- Technical utilities  
+- Digital content and documentation  
 
-This is not a donation request — it is a voluntary tip for digital content and open-source development.
+These are digital products available publicly on GitHub.
+
+## ☕ Support My Development
+Some users choose to support my open‑source work through small **tips** on BuyMeACoffee.  
+This is **not a donation**, but a **voluntary tip for digital content and software development**.
+
 
 <a href="https://buymeacoffee.com/limeng05134">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZ5eGVpeWp4Y296bDN2a3ExcG0ya2ZtbWRsajU4eWx2bndxYXdrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hXMGQqJFlIQMOjpsKC/giphy.gif" width="150" />
