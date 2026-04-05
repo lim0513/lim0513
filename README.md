@@ -25,11 +25,6 @@ This is **not a donation**, but a **voluntary tip for digital content and softwa
 - **[joplin-explorer](https://github.com/lim0513/joplin-explorer)** — A Joplin plugin that unifies notebooks and notes into a single tree view for improved navigation.
 
 
-<a href="https://buymeacoffee.com/lim0513">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZ5eGVpeWp4Y296bDN2a3ExcG0ya2ZtbWRsajU4eWx2bndxYXdrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hXMGQqJFlIQMOjpsKC/giphy.gif" width="150" />
-</a>
-
-
 <!--
 **lim0513/lim0513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
