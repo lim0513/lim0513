@@ -4,7 +4,7 @@
 -->
 
 ## 👋 About My Work
-I am an independent software developer based in Japan.  
+I am an independent software developer.  
 I create open‑source tools, automation scripts, and technical utilities, all published here on GitHub.
 
 ## 🛠 What I Provide
