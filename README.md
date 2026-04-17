@@ -16,7 +16,7 @@ I create open‑source tools, automation scripts, and technical utilities, all p
 These are digital products available publicly on GitHub.
 
 ## ☕ Support My Development
-Some users choose to support my open‑source work through small **tips** on BuyMeACoffee.  
+Some users choose to support my open‑source work through small **tips** on [ko-fi](https://ko-fi.com/lim0513).  
 This is **not a donation**, but a **voluntary tip for digital content and software development**.
 
 ## 🔧 Featured Projects
